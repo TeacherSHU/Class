@@ -1,2 +1,2 @@
 # Class
-Physics of Teacher SHU
+Physics class slides of Teacher SHU
